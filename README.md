@@ -1,2 +1,2 @@
 # todo_app
-Simple todo application
+A Simple todo application created using node server and ejs for templating
