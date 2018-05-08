@@ -64,7 +64,13 @@ li:hover{
 }
 
 h1{
-    background: url(/logo.png) no-repeat center;
-    margin-bottom: 0;
-    text-indent: -10000px;
+    color: #fff;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+p{
+    color: #989898;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }

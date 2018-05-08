@@ -19,7 +19,7 @@ $(document).ready(function(){
 
   });
 
-  $('li').on('click', function(){
+  $('li').on('dblclick', function(){
       var item = $(this).text().replace(/ /g, "-");
       $.ajax({
         type: 'DELETE',
